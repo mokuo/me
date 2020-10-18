@@ -1,7 +1,7 @@
 baseURL = "https://mokuo.me"
 languageCode = "ja"
 defaultContentLanguage = "ja"
-title = "Yuichiro Kida"
+title = "mokuo"
 theme = "hermit"
 # enableGitInfo = true
 pygmentsCodefences  = true
@@ -14,7 +14,7 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
 # disqusShortname = "yourdiscussshortname"
 
 [author]
-  name = "Yuichiro Kida"
+  name = "mokuo"
 
 [blackfriday]
   hrefTargetBlank = true
@@ -32,7 +32,7 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
   customCSS = ["css/custom.css"]
 
   # themeColor = "#494f5c"  # Theme color in meta tags.
-  homeSubtitle = "Web Engineer"
+  homeSubtitle = "Web Developer"
   # footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
   # gitUrl = "https://github.com/Someone/SomeRepo/commit/" # Prefix of link to the git commit detail page. GitInfo must be enabled.
   justifyContent = false  # Set "text-align: justify" to .content, requires extended version of Hugo
@@ -51,6 +51,6 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
 [menu]
 
   [[menu.main]]
-    name = "About"
+    name = "About me"
     url = "/about/"
     weight = 10
