@@ -19,6 +19,16 @@ hugo server -D
 
 ref: https://themes.gohugo.io/hermit/
 
+## Update theme
+
+```sh
+cd themes/hermit
+git branch # => master
+git pull
+```
+
+ref: [Git \- サブモジュール](https://git-scm.com/book/ja/v2/Git-%E3%81%AE%E3%81%95%E3%81%BE%E3%81%96%E3%81%BE%E3%81%AA%E3%83%84%E3%83%BC%E3%83%AB-%E3%82%B5%E3%83%96%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB)
+
 ## Deploy
 
 Merge PR to master branch.
