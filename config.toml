@@ -16,9 +16,6 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
 [author]
   name = "mokuo"
 
-[blackfriday]
-  hrefTargetBlank = true
-
 [taxonomies]
   tag = "tags"
   category = ""  # Categories are disabled by default.
