@@ -1,7 +1,7 @@
 baseURL = "https://mokuo.me"
 languageCode = "ja"
 defaultContentLanguage = "ja"
-title = "mokuo"
+title = "mokuo.me"
 theme = "hermit"
 # enableGitInfo = true
 pygmentsCodefences  = true
