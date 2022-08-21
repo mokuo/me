@@ -1,51 +1,67 @@
-baseURL = "https://mokuo.me"
-languageCode = "ja"
-defaultContentLanguage = "ja"
+# ref: https://themes.gohugo.io/themes/hugo-coder/#quick-start
+baseurl = "https://mokuo.me"
 title = "mokuo"
-theme = "hermit"
-# enableGitInfo = true
-pygmentsCodefences  = true
-pygmentsUseClasses  = true
-hasCJKLanguage = true  # If there're Chinese/Japanese/Korean Languages in the content, enable this.
-# rssLimit = 10  # Maximum number of items in the RSS feed.
-# copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
-enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/functions/emojify/
-# googleAnalytics = "UA-123-45"
-# disqusShortname = "yourdiscussshortname"
+theme = "hugo-coder"
+languagecode = "en"
+defaultcontentlanguage = "en"
 
-[author]
-  name = "mokuo"
+paginate = 20
+
+pygmentsstyle = "bw"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+disqusShortname = "yourdiscussshortname"
+
+# ref: https://molina.jp/blog/hugo%E3%81%A6%E6%9B%B4%E6%96%B0%E6%97%A5%E6%99%82%E3%81%AE%E7%AE%A1%E7%90%86/
+enableGitInfo = true
 
 [params]
-  images = ["images/ogp.jpg"]
+  author = "mokuo"
+  info = "Web Developer"
+  description = "mokuo's personal website"
+  keywords = "blog,developer,personal"
+  avatarurl = "images/avatar.jpg"
+  #gravatar = "john.doe@example.com"
 
-  dateform        = "Jan 2, 2006"
-  dateformShort   = "Jan 2"
-  dateformNum     = "2006-01-02"
-  dateformNumTime = "2006-01-02 15:04 -0700"
+  favicon_32 = "favicon-32x32.png"
+  favicon_16 = "favicon-16x16.png"
 
-  customCSS = ["css/custom.css"]
+  since = 2020
 
-  # themeColor = "#494f5c"  # Theme color in meta tags.
-  homeSubtitle = "Web Developer"
-  # footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
-  # gitUrl = "https://github.com/Someone/SomeRepo/commit/" # Prefix of link to the git commit detail page. GitInfo must be enabled.
-  justifyContent = false  # Set "text-align: justify" to .content, requires extended version of Hugo
-  # bgImg = ""  #  Homepage background-image URL
-  # customCSS = ["css/foo.css", "css/bar.css"]  # add custom css
-  # Social Icons
-  # Check https://github.com/Track3/hermit#social-icons for more info.
-  [[params.social]]
-    name = "twitter"
-    url = "https://twitter.com/mokuo_/"
+  enableTwemoji = true
 
-  [[params.social]]
-    name = "github"
-    url = "https://github.com/mokuo/"
+  colorScheme = "auto"
+  hidecolorschemetoggle = false
 
-[menu]
+  # customCSS = ["css/custom.css"]
+  # customSCSS = ["scss/custom.scss"]
+  # customJS = ["js/custom.js"]
 
-  [[menu.main]]
-    name = "About me"
-    url = "/about/"
-    weight = 10
+# [taxonomies]
+#   category = "categories"
+#   series = "series"
+#   tag = "tags"
+#   author = "authors"
+
+# Social links
+[[params.social]]
+  name = "Github"
+  icon = "fa fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/mokuo/"
+[[params.social]]
+  name = "Twitter"
+  icon = "fa fa-twitter fa-2x"
+  weight = 2
+  url = "https://twitter.com/mokuo_/"
+
+# Menu links
+[[menu.main]]
+  name = "About"
+  weight = 1
+  url = "about/"
+# [[menu.main]]
+#   name = "Blog"
+#   weight = 2
+#   url  = "posts/"
