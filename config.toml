@@ -44,6 +44,9 @@ enableGitInfo = true
 #   tag = "tags"
 #   author = "authors"
 
+[params.googleTagManager]
+    id = "G-CKQWD8HKLV"
+
 # Social links
 [[params.social]]
   name = "Github"
