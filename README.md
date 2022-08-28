@@ -12,17 +12,19 @@ hugo version
 ## Start the Hugo server
 
 ```sh
-hugo server -D
+hugo server
 ```
 
-## Edit pages
+## Add Some Page
 
-ref: https://themes.gohugo.io/hermit/
+hugo new hoge.md
 
 ## Update theme
 
+ref: https://themes.gohugo.io/themes/hugo-coder/
+
 ```sh
-cd themes/hermit
+cd themes/hugo-coder/
 git branch # => master
 git pull
 ```

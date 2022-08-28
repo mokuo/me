@@ -5,15 +5,12 @@ draft: false
 disableComments: true
 ---
 
-Web アプリケーションエンジニアです。
-
-バックエンドを中心に、フロントエンド~バックエンド~インフラの知識と経験があります。
+Web アプリケーションエンジニアです。0→1の新規開発が好きです。
 
 ## 技術領域
 
-- 言語: TypeScript, Ruby, Python
-- フロントエンド: React
-- バックエンド: Node.js, Ruby on Rails, Python
+- バックエンド: Node.js(TypeScript), Ruby on Rails, Python
+- フロントエンド: React(TypeScript)
 - インフラ: AWS, GCP
 - 最近の興味: DDD
 
