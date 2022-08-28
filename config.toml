@@ -61,7 +61,11 @@ enableGitInfo = true
   name = "About"
   weight = 1
   url = "about/"
+[[menu.main]]
+  name = "Products"
+  weight = 2
+  url  = "products/"
 # [[menu.main]]
 #   name = "Blog"
-#   weight = 2
+#   weight = 3
 #   url  = "posts/"
