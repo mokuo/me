@@ -51,14 +51,14 @@ enableGitInfo = true
 # Social links
 [[params.social]]
   name = "Github"
-  icon = "fa fa-github fa-2x"
+  icon = "fa-brands fa-github fa-2x"
   weight = 1
   url = "https://github.com/mokuo/"
 [[params.social]]
   name = "Twitter"
-  icon = "fa fa-twitter fa-2x"
+  icon = "fa-brands fa-x-twitter fa-2x"
   weight = 2
-  url = "https://twitter.com/mokuo_/"
+  url = "https://x.com/mokuo_"
 
 # Menu links
 [[menu.main]]

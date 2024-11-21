@@ -12,23 +12,25 @@ Web アプリケーションエンジニアです。0→1の新規開発が好�
 - バックエンド: Node.js(TypeScript), Ruby on Rails, Python
 - フロントエンド: React(TypeScript)
 - インフラ: AWS, GCP
-- 最近の興味: DDD
+- 最近の興味: モデリング
 
 ## リンク
 
-- GitHub: [https://github.com/mokuo](https://github.com/mokuo)
-- Qiita: [https://qiita.com/mokuo](https://qiita.com/mokuo)
 - Speaker Deck: [https://speakerdeck.com/mokuo](https://speakerdeck.com/mokuo)
-- Blog: [https://blog.mokuo.me](https://blog.mokuo.me)
 - Twitter: [https://twitter.com/mokuo_](https://twitter.com/mokuo_)
+- GitHub: [https://github.com/mokuo](https://github.com/mokuo)
+- Blog: [https://blog.mokuo.me](https://blog.mokuo.me)
+- Qiita: [https://qiita.com/mokuo](https://qiita.com/mokuo)
 
-## アウトプット
+## 企業ブログでのアウトプット
 
-### 登壇
+※ その他のアウトプットについては、上記リンクを御覧ください。
 
-- [mokuo \(@mokuo\) on Speaker Deck](https://speakerdeck.com/mokuo)
-- [D2\-3\-S03: GCP サーバーレス サービスと Sansan データ化技術 〜 少数チームによる高速な事業立ち上げ \- YouTube](https://www.youtube.com/watch?v=sWP2xbPhP34)
-- [名刺のデータ化システムを支えるCI基盤への取り組み/GEES and CircleCI \- Speaker Deck](https://speakerdeck.com/sansanbuildersbox/gees-and-circleci)
+### inSmartBank
+
+- [非同期処理においてデータの整合性を保つアーキテクチャパターン - inSmartBank](https://blog.smartbank.co.jp/entry/asynchronous_architecture_patterns)
+- [builderscon 2024 プロポーザルが採択されるまで - inSmartBank](https://blog.smartbank.co.jp/entry/2024/08/06/170000)
+- [ミニマムな React Web アプリケーションの技術スタックを大公開！ - inSmartBank](https://blog.smartbank.co.jp/entry/2024/07/09/174751)
 
 ### Sansan Tech Blog
 
