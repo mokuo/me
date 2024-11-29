@@ -18,7 +18,7 @@ enableGitInfo = true
 
 [params]
   author = "mokuo"
-  info = "Web Developer"
+  info = "Web Developer\n\n[About](/about/)"
   description = "mokuo's personal website"
   keywords = "blog,developer,personal"
   avatarurl = "images/avatar.jpg"
