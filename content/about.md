@@ -22,13 +22,6 @@ Web アプリケーションエンジニアです。0→1の新規開発が好�
 - Blog: [https://blog.mokuo.me](https://blog.mokuo.me)
 - Qiita: [https://qiita.com/mokuo](https://qiita.com/mokuo)
 
-## 資格
-
-- 応用情報技術者
-- 個人情報保護士
-- Oracle Java Silver
-
-
 ## 登壇実績
 
 | イベント                 | 年   | リンク            |
@@ -72,3 +65,8 @@ Web アプリケーションエンジニアです。0→1の新規開発が好�
 - [「新規事業開発を支える技術」というテーマで Developers Boost に登壇しました \- Sansan Builders Blog](https://buildersbox.corp-sansan.com/entry/2018/12/24/113000)
 - [Google Cloud Next '18 in Tokyo 参加ノート \- Sansan Builders Blog](https://buildersbox.corp-sansan.com/entry/2018/10/01/113000)
 - ["Rails Developers Meetup 2018 Day 3 Extreme" 感想 \- Sansan Builders Blog](https://buildersbox.corp-sansan.com/entry/railsdevelopersmeetup2018)
+
+## 資格
+
+- 応用情報技術者
+- 個人情報保護士
