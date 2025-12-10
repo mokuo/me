@@ -25,6 +25,7 @@ Web アプリケーションエンジニアです。0→1の新規開発が好�
 
 | イベント                 | 年   | リンク            |
 |--------------------------|------|----------------------------|
+| [Developers Summit 2025](https://event.shoeisha.jp/devsumi/20250213)         | 2025 | [データの整合性を保つ非同期処理アーキテクチャパターン / Async Architecture Patterns \- Speaker Deck](https://speakerdeck.com/mokuo/async-architecture-patterns) |
 | [builderscon 2024](https://builderscon.io/)         | 2024 | [ 誰が作成しても1つの構造になるモデリング作成技術、Theory of Models⁠ に夢を見る - Speaker Deck ]( https://speakerdeck.com/mokuo/shui-gazuo-cheng-sitemo1tunogou-zao-ninarumoderinguzuo-cheng-ji-shu-theory-of-models-nimeng-wojian-ru ) |
 | [コンポーネント設計のすゝめ 〜ベストプラクティスを学ぶLunch LT〜](https://findy.connpass.com/event/296449/) | 2023 | [続・変更に強いコンポーネント設計の方針と規約（Webフロントエンド） - Speaker Deck](https://speakerdeck.com/sansantech/sansan-20231004) |
 | [Sansan Builders Box 2019](https://sansan.connpass.com/event/138134/) | 2019 |[GCP サーバーレスサービス×少数チームで新たなデータ化サービスを立ち上げる / GCP serverless new desitization system - Speaker Deck](https://speakerdeck.com/sansanbuildersbox/gcp-serverless-new-desitization-system)  |
@@ -40,6 +41,8 @@ Web アプリケーションエンジニアです。0→1の新規開発が好�
 
 | 日付                 | ブックマーク数  | リンク            |
 |--------------------------|------|----------------------------|
+| [2025年11月1日](https://b.hatena.ne.jp/hotentry/it/20251101) | 41 | [整合性を守り抜く非同期処理アーキテクチャ設計 \(1/3\)\|CodeZine（コードジン）](https://codezine.jp/article/detail/21421)|
+| [2025年2月14日](https://b.hatena.ne.jp/hotentry/it/20250214) | 397 | [データの整合性を保つ非同期処理アーキテクチャパターン / Async Architecture Patterns \- Speaker Deck](https://speakerdeck.com/mokuo/async-architecture-patterns)|
 | [2024年11月18日](https://b.hatena.ne.jp/hotentry/it/20241118) | 352 | [非同期処理においてデータの整合性を保つアーキテクチャパターン - inSmartBank](https://blog.smartbank.co.jp/entry/asynchronous_architecture_patterns)|
 | [2024年8月10日](https://b.hatena.ne.jp/hotentry/it/20240810) | 149 | [誰が作成しても1つの構造になるモデリング作成技術、Theory of Models⁠ に夢を見る - Speaker Deck](https://speakerdeck.com/mokuo/shui-gazuo-cheng-sitemo1tunogou-zao-ninarumoderinguzuo-cheng-ji-shu-theory-of-models-nimeng-wojian-ru)|
 | [2024年7月9日](https://b.hatena.ne.jp/hotentry/it/20240709) | 79 | [ミニマムな React Web アプリケーションの技術スタックを大公開！ - inSmartBank](https://blog.smartbank.co.jp/entry/2024/07/09/174751)|
@@ -47,8 +50,6 @@ Web アプリケーションエンジニアです。0→1の新規開発が好�
 | [2022年1月7日](https://b.hatena.ne.jp/hotentry/it/20220107) | 87 | [変更に強いコンポーネント設計の方針と規約（Webフロントエンド） - Sansan Tech Blog](https://buildersbox.corp-sansan.com/entry/2022/01/06/110000)|
 
 ## 企業ブログ記事
-
-※ 企業ブログ以外でのアウトプットについては、上記リンクを御覧ください。
 
 ### inSmartBank
 
