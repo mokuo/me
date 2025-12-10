@@ -5,8 +5,6 @@ theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
 
-paginate = 20
-
 pygmentsstyle = "bw"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
@@ -15,6 +13,10 @@ disqusShortname = "yourdiscussshortname"
 
 # ref: https://molina.jp/blog/hugo%E3%81%A6%E6%9B%B4%E6%96%B0%E6%97%A5%E6%99%82%E3%81%AE%E7%AE%A1%E7%90%86/
 enableGitInfo = true
+
+# ref: https://stysk.com/posts/2024/11/28/hugo_site_config_key_paginate_was_deprecated/
+[pagination]
+  pagerSize = 20
 
 [params]
   author = "mokuo"
