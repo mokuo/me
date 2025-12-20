@@ -19,6 +19,7 @@ Web アプリケーションエンジニアです。0→1の新規開発が好�
 - Speaker Deck: [https://speakerdeck.com/mokuo](https://speakerdeck.com/mokuo)
 - Twitter: [https://twitter.com/mokuo_](https://twitter.com/mokuo_)
 - GitHub: [https://github.com/mokuo](https://github.com/mokuo)
+- Blog: [https://blog.mokuo.me](https://blog.mokuo.me)
 - Qiita: [https://qiita.com/mokuo](https://qiita.com/mokuo)
 
 ## 登壇実績
